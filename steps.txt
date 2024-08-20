@@ -1,0 +1,9 @@
+>>> Install the Dependencies
+
+Run the following command to install all necessary packages listed in the package.json file:
+" npm install "
+
+>>> Start the Development Server
+
+To run the application in development mode:
+" npm start "

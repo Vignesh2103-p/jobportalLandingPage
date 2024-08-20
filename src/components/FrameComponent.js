@@ -309,9 +309,13 @@ const Slogan = styled.h1`
   color: var(--color-limegreen);
   @media screen and (max-width: 800px) {
     font-size: var(--font-size-25xl);
+    height: 120px;
+    justify-content: center;
   }
   @media screen and (max-width: 450px) {
     font-size: var(--font-size-7xl);
+    height: 80px;
+    margin-top: 30px;
   }
 `;
 
